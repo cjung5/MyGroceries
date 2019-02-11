@@ -1,5 +1,4 @@
 language: cpp
-os: linux
+OS: linux
 script:
-    - make clean
     - make
